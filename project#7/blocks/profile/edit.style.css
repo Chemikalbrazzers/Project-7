@@ -1,0 +1,10 @@
+.EdiT {
+    position: absolute;
+    right: 74%;
+    width: 50px;
+    height: auto;
+    padding-left: 7px;
+    margin: 25px;
+    border: solid 1px white;
+    border-radius: 8%;
+}
